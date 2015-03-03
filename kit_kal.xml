@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <date>
+
+			<offer>
+				<year>1924</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1925</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1926</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1927</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1928</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1929</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1930</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1931</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1932</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1933</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1934</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1935</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1936</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1937</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1938</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1939</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1940</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal></animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1941</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1942</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1943</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1944</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1945</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1946</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1947</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1948</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1949</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1950</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1951</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1952</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1953</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1954</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1955</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1956</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1957</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1958</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1959</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1960</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1961</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1962</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1963</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1964</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1965</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1966</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1967</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1968</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1969</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1970</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1971</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1972</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1973</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1974</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1975</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1976</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1977</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1978</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1979</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1980</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1981</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1982</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1983</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1984</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1985</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1986</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1987</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1988</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1989</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1990</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1991</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1992</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1993</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1994</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1995</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1996</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1997</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1998</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>1999</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2000</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal></animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2001</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2002</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2003</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2004</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2005</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2006</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2007</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2008</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2009</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2010</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2011</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2012</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2013</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2014</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2015</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2016</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2017</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2018</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2019</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2020</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2021</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2022</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2023</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2024</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2025</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2026</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2027</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2028</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2029</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2030</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2031</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2032</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Крыса</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2033</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Бык</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2034</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Тигр</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2035</year>
+                <stem>Дерево</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Кролик</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2036</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Дракон</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2037</year>
+                <stem>Огонь</stem>
+                <color>Красный</color>
+                <animal>Змея</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2038</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Лошадь</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2039</year>
+                <stem>Желтый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Овца</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2040</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Обезъяна</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2041</year>
+                <stem>Белый</stem>
+                <color>Бирюзовый, зеленый</color>
+                <animal>Петух</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2042</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Собака</animal>
+			</offer>
+            
+            
+			<offer>
+				<year>2043</year>
+                <stem>Вода</stem>
+                <color>Черный, синий</color>
+                <animal>Свинья</animal>
+			</offer>
+            
+            
+    </date>
